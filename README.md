@@ -1,2 +1,2 @@
 # Rockola
-se crea rockola
+Colocar el proyecto en el disco C:
